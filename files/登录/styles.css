@@ -141,7 +141,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'幼圆 Bold', '幼圆';
+  font-family:'幼圆 Bold', '幼圆 Regular', '幼圆';
   font-style:normal;
   color:#FFFFFF;
   text-align:center;
@@ -154,7 +154,7 @@
   top:200px;
   width:311px;
   height:60px;
-  font-family:'幼圆 Bold', '幼圆';
+  font-family:'幼圆 Bold', '幼圆 Regular', '幼圆';
   font-style:normal;
   color:#FFFFFF;
   text-align:center;
